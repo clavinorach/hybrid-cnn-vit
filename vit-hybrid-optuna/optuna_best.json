@@ -1,0 +1,13 @@
+{
+  "best_value": 85.30000448226929,
+  "best_params": {
+    "backbone": "efficientnet",
+    "embed_dim": 128,
+    "num_heads": 4,
+    "num_layers": 4,
+    "mlp_ratio": 2.3883077120553216,
+    "dropout": 0.18282095801199652,
+    "lr": 0.0006486992336048424,
+    "batch_size": 256
+  }
+}

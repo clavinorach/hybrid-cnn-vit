@@ -121,6 +121,11 @@ The notebook implements:
 - Saving of best trial configuration
 - Saving of trained model state
 
+### License
+<p align="justify">
+This project is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software. The full text of the license is available in the <a href="https://github.com/clavinorach/hybrid-cnn-vit/blob/main/LICENSE">LICENSE</a> file. By using this project, you agree to include the license notice and disclaimers in all copies or substantial portions of the Software. For more details on the terms and conditions of the MIT License, please refer to the license file.
+</p>
+
 ### Citation
 ```bash
 @software{

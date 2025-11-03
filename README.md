@@ -85,6 +85,7 @@ The notebook automatically logs:
 
 ### Results
 Run: modal.com [modal.com](https://modal.com)
+
 Kernel Settings:
 - 4 vCPU
 - 16 GB RAM
@@ -130,6 +131,17 @@ The notebook implements:
 <p align="justify">
 This project is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software. The full text of the license is available in the <a href="https://github.com/clavinorach/hybrid-cnn-vit/blob/main/LICENSE">LICENSE</a> file. By using this project, you agree to include the license notice and disclaimers in all copies or substantial portions of the Software. For more details on the terms and conditions of the MIT License, please refer to the license file.
 </p>
+
+### Future Work
+
+1. **Evaluate on Larger and More Complex Datasets**  
+   Expand experiments beyond CIFAR-10 to datasets such as CIFAR-100 and Tiny-ImageNet to assess generalization and scalability of the hybrid architecture.
+
+2. **Apply Model Compression and Deployment Techniques**  
+   Explore quantization, pruning, and knowledge distillation to reduce model size and latency, enabling deployment on resource-constrained environments and edge devices.
+
+3. **Integrate Self-Supervised Pretraining**  
+   Investigate methods such as masked image modeling or contrastive learning to improve feature quality and performance without relying solely on labeled datasets.
 
 ### Citation
 ```bash

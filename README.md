@@ -83,8 +83,21 @@ The notebook automatically logs:
 - Loss Curves (Not Implemented)
 - Best Model Checkpoint
 
+### Project Structure
+```bash
+.
+├── .gitignore
+├── LICENSE # license
+├── README.md # documentations
+├── hybrid-cnn-vit.ipynb # main notebook
+└── vit-hybrid-optuna # artifacts
+    ├── best_hybrid_cnn_vit.pth
+    ├── hybrid_cnn_vit_full.pth
+    └── optuna_best.json
+```
+
 ### Results
-Run: modal.com [modal.com](https://modal.com)
+Run: [modal.com](https://modal.com)
 
 Kernel Settings:
 - 4 vCPU
